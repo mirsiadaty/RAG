@@ -85,7 +85,7 @@ RAQA303 = RetrievalQA.from_chain_type(
     )
 ```
 
-ASk Q and get A:
+Ask Q and get A:
 ```
 iquestion = "What is the tire diameter of Airbus A380 in centimeters?"
 #
